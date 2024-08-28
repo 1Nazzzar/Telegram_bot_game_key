@@ -1,0 +1,10 @@
+TOKEN = '7257007009:AAE6Nj1s2EJDbcEYa9yvPL7lNNP2nwGny5I'
+
+DB_NAME = 'game_bot'
+DB_USER = 'root'
+DB_PASSWORD = 'frunze312'
+DB_HOST = 'localhost'
+
+ADMIN_ID = 6727705849
+
+MYSQL_URL = f'mysql+aiomysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}'
